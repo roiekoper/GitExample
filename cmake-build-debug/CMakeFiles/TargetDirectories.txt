@@ -1,0 +1,3 @@
+/Users/roiekoper/StudyProjects/GitExample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/roiekoper/StudyProjects/GitExample/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/roiekoper/StudyProjects/GitExample/cmake-build-debug/CMakeFiles/GitExample.dir
